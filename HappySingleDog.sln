@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappySingleDog.SQLServerDBConn", "HappySingleDog.SQLServerDBConn\HappySingleDog.SQLServerDBConn.csproj", "{976833EE-9577-48C2-BF15-FEC4A8535AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappySingleDog.MySqlDBConn", "HappySingleDog.MySqlDBConn\HappySingleDog.MySqlDBConn.csproj", "{6AD294B1-4BE4-466F-A98C-9F9002E8885D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappySingleDog.Utils", "HappySingleDog.Utils\HappySingleDog.Utils.csproj", "{A64DA3C4-91D8-48BF-894B-69553CA15DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976833EE-9577-48C2-BF15-FEC4A8535AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976833EE-9577-48C2-BF15-FEC4A8535AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976833EE-9577-48C2-BF15-FEC4A8535AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976833EE-9577-48C2-BF15-FEC4A8535AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD294B1-4BE4-466F-A98C-9F9002E8885D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD294B1-4BE4-466F-A98C-9F9002E8885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD294B1-4BE4-466F-A98C-9F9002E8885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD294B1-4BE4-466F-A98C-9F9002E8885D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64DA3C4-91D8-48BF-894B-69553CA15DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64DA3C4-91D8-48BF-894B-69553CA15DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64DA3C4-91D8-48BF-894B-69553CA15DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64DA3C4-91D8-48BF-894B-69553CA15DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

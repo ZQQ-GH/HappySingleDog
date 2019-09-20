@@ -1,0 +1,15 @@
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Study\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\HappySingleDog.SQLServerDBConn.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Study\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\HappySingleDog.SQLServerDBConn.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Study\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Study\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Study\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.csprojResolveAssemblyReference.cache
+D:\文档\代码模板\Study(旧)\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.csproj.CoreCompileInputs.cache
+D:\文档\代码模板\Study(旧)\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.dll
+D:\文档\代码模板\Study(旧)\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.pdb
+D:\文档\代码模板\Study(旧)\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\HappySingleDog.SQLServerDBConn.dll
+D:\文档\代码模板\Study(旧)\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\HappySingleDog.SQLServerDBConn.pdb
+D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\HappySingleDog.SQLServerDBConn.dll
+D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\HappySingleDog.SQLServerDBConn.pdb
+D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.dll
+D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.pdb
+D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.csprojResolveAssemblyReference.cache
