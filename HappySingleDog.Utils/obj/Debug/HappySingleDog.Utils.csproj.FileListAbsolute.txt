@@ -12,4 +12,5 @@ D:\文档\代码模板\HappySingleDog\HappySingleDog.Utils\bin\Debug\HappySingle
 D:\文档\代码模板\HappySingleDog\HappySingleDog.Utils\bin\Debug\HappySingleDog.Utils.pdb
 D:\文档\代码模板\HappySingleDog\HappySingleDog.Utils\obj\Debug\HappySingleDog.Utils.dll
 D:\文档\代码模板\HappySingleDog\HappySingleDog.Utils\obj\Debug\HappySingleDog.Utils.pdb
-D:\文档\代码模板\HappySingleDog\HappySingleDog.Utils\obj\Debug\HappySingleDog.Utils.csprojResolveAssemblyReference.cache
+D:\文档\代码模板\HappySingleDog\HappySingleDog.Utils\obj\Debug\HappySingleDog.Utils.csprojAssemblyReference.cache
+D:\文档\代码模板\HappySingleDog\HappySingleDog.Utils\obj\Debug\HappySingleDog.Utils.csproj.CoreCompileInputs.cache

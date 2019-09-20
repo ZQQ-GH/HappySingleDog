@@ -27,6 +27,7 @@ namespace HappySingleDog.Utils
             {
                 MessageBox.Show(ee.Message);
                 return new DataTable();
+                return new DataTable();
             }
         }
     }

@@ -12,4 +12,4 @@ D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\H
 D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\bin\Debug\HappySingleDog.SQLServerDBConn.pdb
 D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.dll
 D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.pdb
-D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.csprojResolveAssemblyReference.cache
+D:\文档\代码模板\HappySingleDog\HappySingleDog.SQLServerDBConn\obj\Debug\HappySingleDog.SQLServerDBConn.csproj.CoreCompileInputs.cache
